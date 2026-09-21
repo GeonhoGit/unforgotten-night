@@ -1,2 +1,0 @@
-docs/작업-인수인계.md를 먼저 읽으세요.
-Node.js 22 이상에서 site 폴더를 열고 node scripts/serve.cjs 실행 후 http://127.0.0.1:5173 접속.
